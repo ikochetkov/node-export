@@ -1,7 +1,6 @@
 {
   "name": "node_export",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "dependencies": {
     "cors": "^2.8.5",
@@ -15,5 +14,14 @@
     "server": "nodemon app.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikochetkov/node-export.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ikochetkov/node-export/issues"
+  },
+  "homepage": "https://github.com/ikochetkov/node-export#readme",
+  "description": ""
 }
